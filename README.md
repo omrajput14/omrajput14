@@ -1,7 +1,7 @@
 # Konichiwa 👋
 
 <div align="center">
-<img width="600" alt="GIF" align="center" src="./assets/208593.gif">
+<img width="700" alt="GIF" align="center" src="./assets/13626.gif">
 </div>
 
 </br>
