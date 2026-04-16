@@ -11,14 +11,14 @@
 
 # About ME 💬 :
 
-### - I'm a passionate Developer and Tech Enthusiast. Replace this with your own intro!
+### - I'm a 1st-year Data Science student with a passion for building cool things! 🚀
 
 <img height="400" width="500" alt="GIF" align="right" src="./assets/1936.gif">
 
 ### - Hobbies : 
 - ✨ Gaming Addict
 - ✨ Watching Anime
-- ✨ Reading Light Novels
+- ✨ Reading Japanese Manga
 - ✨ Badminton (Neighbourhood Professional XD)
 
 </br>
