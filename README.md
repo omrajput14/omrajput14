@@ -81,7 +81,7 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 <a href="https://www.linkedin.com/in/omrajput14/">
   <img align="left" alt="Linkedin" width="150" height="100" src="./assets/icons/linkedin.png" />
 </a>
-<a href="https://instagram.com/omrajput14">
+<a href="https://instagram.com/omrajput.14">
   <img align="left" alt="Instagram" width="150" height="100" src="./assets/icons/instagram.svg" />
 </a>
 <a href="https://wa.me/9021961058">
