@@ -33,13 +33,16 @@
 <p align="center">
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
+<img src="./assets/icons/html@3x.png" alt="html" width="100" height="50">
+<img src="./assets/icons/css3@3x.png" alt="css" width="100" height="50">
+<img src="./assets/icons/csharp@3x.png" alt="csharp" width="100" height="50">
 <img src="./assets/icons/java.png" alt="java"  width="100" height="50">
-<img src="./assets/icons/ai.png" alt="AI" width="90" height="50">
 <img src="./assets/icons/bash.png" alt="bash" width="100" height="50">
+</br>
+<img src="./assets/icons/ai.png" alt="AI" width="90" height="50">
 <img src="./assets/icons/datascience.png" alt="datascience" width="180" height="50">
 </br>
 <img src="./assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240" height="50">
-</br>
 <img src="./assets/icons/mac@3x.png" alt="mac" width="100" height="50">
 <img src="./assets/icons/playstation@3x.png" alt="playstation" width="150" height="50">
 </p>
@@ -77,6 +80,12 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 </a>
 <a href="https://www.linkedin.com/in/omrajput14/">
   <img align="left" alt="Linkedin" width="150" height="100" src="./assets/icons/linkedin.png" />
+</a>
+<a href="https://instagram.com/omrajput14">
+  <img align="left" alt="Instagram" width="150" height="100" src="./assets/icons/instagram.svg" />
+</a>
+<a href="https://wa.me/">
+  <img align="left" alt="WhatsApp" width="150" height="100" src="./assets/icons/whatsapp.svg" />
 </br>
 </br>
 </br>
