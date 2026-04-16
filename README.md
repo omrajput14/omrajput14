@@ -80,9 +80,7 @@ If you want to reach out to me about anything, be it some doubt or just to hango
   <img src="./assets/gojo.gif" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/omrajput14"> 
-<img src="https://github-readme-stats.vercel.app/api?username=omrajput14&show_icons=true&theme=radical"/>
+
   </a>
 </p>
 
