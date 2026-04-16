@@ -39,12 +39,12 @@
 <img src="./assets/icons/java.png" alt="java"  width="100" height="50">
 <img src="./assets/icons/bash.png" alt="bash" width="100" height="50">
 </br>
-<img src="./assets/icons/ai.png" alt="AI" width="90" height="50">
-<img src="./assets/icons/datascience.png" alt="datascience" width="180" height="50">
-</br>
 <img src="./assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240" height="50">
 <img src="./assets/icons/mac@3x.png" alt="mac" width="100" height="50">
 <img src="./assets/icons/playstation@3x.png" alt="playstation" width="150" height="50">
+</br>
+<img src="./assets/icons/ai.png" alt="AI" width="90" height="50">
+<img src="./assets/icons/datascience.png" alt="datascience" width="180" height="50">
 </p>
 </br>
 </br>
