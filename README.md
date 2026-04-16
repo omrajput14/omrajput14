@@ -59,7 +59,7 @@
   <img src="./assets/icons/python.png" alt="python" width="120" height="50">
   <img src="./assets/icons/leetcode.svg" alt="leetcode" width="120" height="50">
   <img src="./assets/icons/google_cloud_platform.png" alt="google_cloud_platform" width="270" height="50">
-  <img src="./assets/icons/edge.png" alt="edge" width="100" height="50">
+  <img src="./assets/icons/js.svg" alt="js" width="100" height="50">
 </p>
 </br>
 </br>
@@ -84,7 +84,7 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 <a href="https://instagram.com/omrajput14">
   <img align="left" alt="Instagram" width="150" height="100" src="./assets/icons/instagram.svg" />
 </a>
-<a href="https://wa.me/">
+<a href="https://wa.me/9021961058">
   <img align="left" alt="WhatsApp" width="150" height="100" src="./assets/icons/whatsapp.svg" />
 </br>
 </br>
