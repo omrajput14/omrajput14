@@ -15,9 +15,15 @@
 
 <img height="400" width="500" alt="GIF" align="right" src="./assets/1936.gif">
 
-### - Learning :
+### - Currently Learning :
 - ✨ Data Structures & Algorithms
 - ✨ Generative Adversarial Networks
+
+<p align="left">
+  <img src="./assets/icons/sass@3x.png" alt="sass" width="100" height="50">
+  <img src="./assets/icons/python.png" alt="python" width="120" height="50">
+  <img src="./assets/icons/leetcode.svg" alt="leetcode" width="120" height="50">
+</p>
 
 ### - Hobbies : 
 - ✨ Gaming Addict
@@ -46,7 +52,7 @@
 <img src="./assets/icons/google_cloud_platform.png" alt="google_cloud_platform" width="270" height="50">
 <img src="./assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240" height="50">
 </br>
-<img src="./assets/icons/pc.png" alt="pc" width="100" height="50">
+<img src="./assets/icons/mac@3x.png" alt="mac" width="100" height="50">
 <img src="./assets/icons/edge.png" alt="edge" width="100" height="50">
 <img src="./assets/icons/playstation@3x.png" alt="playstation" width="150" height="50">
 </p>
