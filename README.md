@@ -35,7 +35,7 @@
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 <img src="./assets/icons/html@3x.png" alt="html" width="100" height="50">
 <img src="./assets/icons/css3@3x.png" alt="css" width="100" height="50">
-<img src="./assets/icons/csharp@3x.png" alt="csharp" width="100" height="50">
+<img src="./assets/icons/csharp.svg" alt="csharp" width="100" height="50">
 <img src="./assets/icons/java.png" alt="java"  width="100" height="50">
 <img src="./assets/icons/bash.png" alt="bash" width="100" height="50">
 </br>
