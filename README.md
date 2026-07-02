@@ -18,14 +18,9 @@
 
 **1st-year Data Science student who accidentally fell in love with building real things.**
 
-```yaml
-role: Backend Developer (self-appointed, no complaints filed)
-frontend_skill_level: "still on the tutorial island"
-strength: turning coffee into working APIs
-weakness: CSS, centering a div, the color wheel
-guild: Straw Hat coder, sailing the Grand Line of Stack Overflow
-current_arc: "Data Science Saga — Episode 1"
-```
+<div align="center">
+<img src="assets/bounty-poster.svg" width="380" alt="Wanted poster for Om Rajput, The Backend Corsair">
+</div>
 
 Frontend isn't my thing, but I still do it — the way a backend guy does frontend, which is to say the buttons work, nothing is centered, and every color choice was a cry for help.
 
