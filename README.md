@@ -163,8 +163,8 @@ Reach out if you want to talk backend, debug a system together, argue about anim
 [![Gmail](https://img.shields.io/badge/Gmail-2b0a0a?style=for-the-badge&logo=gmail&logoColor=D4AF37)](mailto:omrajputt369@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-2b0a0a?style=for-the-badge&logo=firefoxbrowser&logoColor=D4AF37)](https://omrajput.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-2b0a0a?style=for-the-badge&logo=linkedin&logoColor=0A66C2&cacheSeconds=3600)](https://linkedin.com/in/omrajput14)
-[![Instagram](https://img.shields.io/badge/Instagram-2b0a0a?style=for-the-badge&logo=instagram&logoColor=D4AF37)](https://instagram.com/YOUR_INSTAGRAM)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-2b0a0a?style=for-the-badge&logo=whatsapp&logoColor=D4AF37)](https://wa.me/YOUR_NUMBER)
+[![Instagram](https://img.shields.io/badge/Instagram-2b0a0a?style=for-the-badge&logo=instagram&logoColor=D4AF37)](https://instagram.com/omrajpiut.14)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-2b0a0a?style=for-the-badge&logo=whatsapp&logoColor=D4AF37)](https://wa.me/919021961058)
 
 </div>
 
