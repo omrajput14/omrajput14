@@ -1,0 +1,75 @@
+<svg viewBox="0 0 640 820" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="paper" cx="50%" cy="40%" r="75%">
+      <stop offset="0%" stop-color="#f1e2b8"/>
+      <stop offset="55%" stop-color="#e6d19f"/>
+      <stop offset="100%" stop-color="#cdaa6d"/>
+    </radialGradient>
+    <radialGradient id="vignette" cx="50%" cy="50%" r="70%">
+      <stop offset="60%" stop-color="#000000" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#2b0a0a" stop-opacity="0.35"/>
+    </radialGradient>
+    <linearGradient id="ribbon" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#5c0f0f"/>
+      <stop offset="100%" stop-color="#2b0a0a"/>
+    </linearGradient>
+  </defs>
+
+  <!-- torn/aged paper background -->
+  <polygon points="18,10 610,4 630,40 622,760 600,802 30,812 8,780 14,50"
+           fill="url(#paper)" stroke="#5c3d1f" stroke-width="4"/>
+  <rect x="0" y="0" width="640" height="820" fill="url(#vignette)"/>
+
+  <!-- inner double border -->
+  <rect x="34" y="34" width="572" height="752" fill="none" stroke="#5c3d1f" stroke-width="2"/>
+  <rect x="42" y="42" width="556" height="736" fill="none" stroke="#5c3d1f" stroke-width="1"/>
+
+  <!-- coffee ring stain -->
+  <circle cx="555" cy="120" r="34" fill="none" stroke="#8a5a2b" stroke-width="6" opacity="0.35"/>
+  <circle cx="80" cy="740" r="24" fill="none" stroke="#8a5a2b" stroke-width="5" opacity="0.3"/>
+
+  <!-- WANTED banner -->
+  <text x="320" y="115" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif"
+        font-size="72" font-weight="700" letter-spacing="10" fill="#5c0f0f">WANTED</text>
+  <line x1="90" y1="140" x2="550" y2="140" stroke="#5c0f0f" stroke-width="3"/>
+
+  <!-- portrait frame -->
+  <rect x="195" y="168" width="250" height="250" fill="#1a1a1a" stroke="#5c0f0f" stroke-width="5"/>
+  <!-- silhouette: hooded coder at a terminal -->
+  <g transform="translate(195,168)">
+    <rect width="250" height="250" fill="#151515"/>
+    <circle cx="125" cy="95" r="45" fill="#2b2b2b"/>
+    <path d="M70,95 a55,55 0 0 1 110,0 l0,20 l-110,0 z" fill="#0d0d0d"/>
+    <path d="M60,240 q65,-90 130,0 z" fill="#2b2b2b"/>
+    <rect x="70" y="175" width="110" height="14" rx="2" fill="#D4AF37" opacity="0.85"/>
+    <text x="125" y="186" text-anchor="middle" font-family="Courier New, monospace" font-size="10" fill="#1a1a1a">01001</text>
+  </g>
+
+  <!-- name -->
+  <text x="320" y="450" text-anchor="middle" font-family="Georgia, serif" font-size="40"
+        font-weight="700" fill="#2b0a0a">OM RAJPUT</text>
+  <text x="320" y="480" text-anchor="middle" font-family="Georgia, serif" font-size="20"
+        font-style="italic" fill="#5c0f0f">"The Backend Corsair"</text>
+
+  <!-- bounty ribbon -->
+  <path d="M120,505 L520,505 L520,555 L120,555 Z" fill="url(#ribbon)"/>
+  <polygon points="120,505 100,530 120,555" fill="url(#ribbon)"/>
+  <polygon points="520,505 540,530 520,555" fill="url(#ribbon)"/>
+  <text x="320" y="540" text-anchor="middle" font-family="Georgia, serif" font-size="26"
+        font-weight="700" letter-spacing="2" fill="#D4AF37">999,999,999 API CALLS</text>
+
+  <line x1="90" y1="580" x2="550" y2="580" stroke="#5c0f0f" stroke-width="2" stroke-dasharray="6,6"/>
+
+  <!-- stats -->
+  <g font-family="Georgia, serif" font-size="16" fill="#2b0a0a">
+    <text x="90" y="615"><tspan font-weight="700">Class:</tspan> Backend Developer</text>
+    <text x="90" y="645"><tspan font-weight="700">Frontend Rank:</tspan> E- (tutorial island resident)</text>
+    <text x="90" y="675"><tspan font-weight="700">Power:</tspan> Half a Jira ticket in, an over-engineered API out</text>
+    <text x="90" y="705"><tspan font-weight="700">Weakness:</tspan> CSS, centering a div, color wheels</text>
+    <text x="90" y="735"><tspan font-weight="700">Crew:</tspan> Straw Hat Coder, Grand Line of SO</text>
+    <text x="90" y="765"><tspan font-weight="700">Current Arc:</tspan> Data Science Saga — Ep. 1</text>
+  </g>
+
+  <text x="320" y="800" text-anchor="middle" font-family="Georgia, serif" font-size="14"
+        font-style="italic" fill="#5c3d1f">DEAD OR ALIVE — mostly alive, running on caffeine</text>
+</svg>
