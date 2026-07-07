@@ -16,7 +16,7 @@
 <tr>
 <td width="60%" valign="top">
 
-**1st-year Data Science student who accidentally fell in love with building real things.**
+**Data Science student who accidentally fell in love with building real things.**
 
 <div align="center">
 <img src="assets/bounty-poster.svg" width="380" alt="Wanted poster for Om Rajput, The Backend Corsair">
