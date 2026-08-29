@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,50:2b0a0a,100:D4AF37&height=220&section=header&text=Om%20Rajput&fontSize=55&fontColor=D4AF37&animation=fadeIn&fontAlignY=35&desc=Backend%20Dev%20%E2%80%A2%20Data%20Science%20Rookie%20%E2%80%A2%20Frontend%20Final%20Boss%20Unbeaten&descAlignY=58&descSize=16&fontFamily=Cinzel" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,50:2b0a0a,100:D4AF37&height=220&section=header&text=Om%20Rajput&fontSize=55&fontColor=D4AF37&animation=fadeIn&fontAlignY=35&desc=Java%20%26%20Spring%20Boot%20Engineer%20%E2%80%A2%20Android%20%26%20Flutter%20Dev%20%E2%80%A2%20Building%20Vetra&descAlignY=58&descSize=16&fontFamily=Cinzel" width="100%"/>
 
 <a href="https://github.com/omrajput14">
-  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&size=20&duration=3500&pause=900&color=D4AF37&center=true&vCenter=true&width=750&lines=I'm+going+to+be+King+of+the+Backend!;A+dev+who+doesn't+ship+bugs+has+no+right+to+call+himself+a+dev;500+Internal+Server+Error%3A+the+world+isn't+cruel%2C+just+indifferent;There's+no+curse+more+powerful+than+unhandled+exceptions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&size=20&duration=3500&pause=900&color=D4AF37&center=true&vCenter=true&width=750&lines=Building+Vetra+%E2%80%94+Android+%26+Flutter+Powered+by+Java+%2B+Redis;I'm+going+to+be+King+of+the+Backend!;High-performance+Spring+Boot+APIs;Sub-millisecond+Redis+caching+%26+distributed+systems;There's+no+curse+more+powerful+than+unhandled+exceptions" alt="Typing SVG" />
 </a>
 
 </div>
@@ -16,20 +16,22 @@
 <tr>
 <td width="60%" valign="top">
 
-**Data Science student who accidentally fell in love with building real things.**
+**Java & Spring Boot Backend Engineer | Mobile Developer (Flutter & Android)**
 
 <div align="center">
 <img src="assets/bounty-poster.svg" width="380" alt="Wanted poster for Om Rajput, The Backend Corsair">
 </div>
 
-Frontend isn't my thing, but I still do it — the way a backend guy does frontend, which is to say the buttons work, nothing is centered, and every color choice was a cry for help.
+Currently putting all my skill points into crafting **Vetra** — a modern cross-platform Android & Flutter app engineered with a high-throughput Java / Spring Boot backend and blazing fast Redis caching.
 
-Proof I can survive without a database, if forced at gunpoint: **[omrajput.me](https://omrajput.me)**
+When I'm not writing clean domain models or optimizing queries to sub-millisecond execution, I'm perfecting mobile UI states and building distributed backends that never buckle under pressure.
+
+Proof I can survive outside of an IDE, if forced at gunpoint: **[omrajput.me](https://omrajput.me)**
 
 </td>
 <td width="40%" align="center">
 <img src="https://media.giphy.com/media/vCbhSnhug15F3Vs1K1/200w.gif" width="260" alt="Guts walking to office in a suit"/>
-<br><sub>me walking into standup after an all-nighter debugging prod</sub>
+<br><sub>me walking into standup after an all-nighter tuning Redis caching & backend APIs</sub>
 </td>
 </tr>
 </table>
@@ -50,67 +52,66 @@ Proof I can survive without a database, if forced at gunpoint: **[omrajput.me](h
 
 ---
 
-### Languages & Tools
+### Languages & Arsenal
 
-**Languages**
+**Core Languages**
 
 <div align="center">
 
 ![Java](https://img.shields.io/badge/Java-2b0a0a?style=for-the-badge&logo=openjdk&logoColor=D4AF37)
-![Python](https://img.shields.io/badge/Python-2b0a0a?style=for-the-badge&logo=python&logoColor=D4AF37)
-![JavaScript](https://img.shields.io/badge/JavaScript-2b0a0a?style=for-the-badge&logo=javascript&logoColor=D4AF37)
+![Dart](https://img.shields.io/badge/Dart-2b0a0a?style=for-the-badge&logo=dart&logoColor=D4AF37)
+![SQL](https://img.shields.io/badge/SQL-2b0a0a?style=for-the-badge&logo=sqlite&logoColor=D4AF37)
 
 </div>
 
-**Backend**
+**Backend & Architecture**
 
 <div align="center">
 
-![Node.js](https://img.shields.io/badge/Node.js-2b0a0a?style=for-the-badge&logo=nodedotjs&logoColor=D4AF37)
-![Express](https://img.shields.io/badge/Express.js-2b0a0a?style=for-the-badge&logo=express&logoColor=D4AF37)
-![FastAPI](https://img.shields.io/badge/FastAPI-2b0a0a?style=for-the-badge&logo=fastapi&logoColor=D4AF37)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-2b0a0a?style=for-the-badge&logo=springboot&logoColor=D4AF37)
+![Spring Security](https://img.shields.io/badge/Spring_Security-2b0a0a?style=for-the-badge&logo=springsecurity&logoColor=D4AF37)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-2b0a0a?style=for-the-badge&logo=swagger&logoColor=D4AF37)
+![Microservices](https://img.shields.io/badge/Microservices-2b0a0a?style=for-the-badge&logo=apache&logoColor=D4AF37)
 
 </div>
 
-**Databases**
+**Mobile Development**
 
 <div align="center">
 
-![MongoDB](https://img.shields.io/badge/MongoDB-2b0a0a?style=for-the-badge&logo=mongodb&logoColor=D4AF37)
-![Firebase](https://img.shields.io/badge/Firebase-2b0a0a?style=for-the-badge&logo=firebase&logoColor=D4AF37)
-![SQLite](https://img.shields.io/badge/SQLite-2b0a0a?style=for-the-badge&logo=sqlite&logoColor=D4AF37)
+![Flutter](https://img.shields.io/badge/Flutter-2b0a0a?style=for-the-badge&logo=flutter&logoColor=D4AF37)
+![Android](https://img.shields.io/badge/Android-2b0a0a?style=for-the-badge&logo=android&logoColor=D4AF37)
+
+</div>
+
+**Databases & Caching**
+
+<div align="center">
+
+![Redis](https://img.shields.io/badge/Redis-2b0a0a?style=for-the-badge&logo=redis&logoColor=D4AF37)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2b0a0a?style=for-the-badge&logo=postgresql&logoColor=D4AF37)
+![MySQL](https://img.shields.io/badge/MySQL-2b0a0a?style=for-the-badge&logo=mysql&logoColor=D4AF37)
+![Firebase](https://img.shields.io/badge/Firebase-2b0a0a?style=for-the-badge&logo=firebase&logoColor=D4AF37)
 
 </div>
 
-**Frontend** — *dabbled in it, not a pro, mostly held together by hope*
-
-<div align="center">
-
-![React](https://img.shields.io/badge/React-2b0a0a?style=for-the-badge&logo=react&logoColor=D4AF37)
-![Vite](https://img.shields.io/badge/Vite-2b0a0a?style=for-the-badge&logo=vite&logoColor=D4AF37)
-![HTML](https://img.shields.io/badge/HTML-2b0a0a?style=for-the-badge&logo=html5&logoColor=D4AF37)
-![CSS3](https://img.shields.io/badge/CSS3-2b0a0a?style=for-the-badge&logo=css3&logoColor=D4AF37)
-
-</div>
-
-**Tools**
+**Tools & Environment**
 
 <div align="center">
 
 ![Git](https://img.shields.io/badge/Git_%26_GitHub-2b0a0a?style=for-the-badge&logo=github&logoColor=D4AF37)
-![IoT](https://img.shields.io/badge/IoT-2b0a0a?style=for-the-badge&logo=raspberrypi&logoColor=D4AF37)
-![Data Science](https://img.shields.io/badge/Data_Science-2b0a0a?style=for-the-badge&logo=databricks&logoColor=D4AF37)
-![AgriTech](https://img.shields.io/badge/AgriTech-2b0a0a?style=for-the-badge&logo=leaflet&logoColor=D4AF37)
+![Docker](https://img.shields.io/badge/Docker-2b0a0a?style=for-the-badge&logo=docker&logoColor=D4AF37)
+![Postman](https://img.shields.io/badge/Postman-2b0a0a?style=for-the-badge&logo=postman&logoColor=D4AF37)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-2b0a0a?style=for-the-badge&logo=intellijidea&logoColor=D4AF37)
+![Android Studio](https://img.shields.io/badge/Android_Studio-2b0a0a?style=for-the-badge&logo=androidstudio&logoColor=D4AF37)
 
 </div>
 
-> *"CSS is my Kaido — I've fought it a hundred times and I'm still one-shot every time."*
+> *"NullPointerExceptions are my Kaido — but with Optional and defensive coding, I conquer them every time."*
 
 <div align="center">
 <img src="https://media.giphy.com/media/WlNLukEnQOYEA9ZwdS/giphy.gif" width="420">
-<br><sub>the exact moment a query stops taking 8 seconds</sub>
+<br><sub>the exact moment a cache hit drops query latency to 1ms</sub>
 </div>
 
 ---
@@ -119,21 +120,20 @@ Proof I can survive without a database, if forced at gunpoint: **[omrajput.me](h
 
 <div align="center">
 
-![GCP](https://img.shields.io/badge/Google_Cloud-2b0a0a?style=for-the-badge&logo=googlecloud&logoColor=D4AF37)
-![LeetCode](https://img.shields.io/badge/LeetCode-2b0a0a?style=for-the-badge&logo=leetcode&logoColor=D4AF37)
-![Sass](https://img.shields.io/badge/Sass-2b0a0a?style=for-the-badge&logo=sass&logoColor=D4AF37)
+![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-2b0a0a?style=for-the-badge&logo=spring&logoColor=D4AF37)
+![Redis Architecture](https://img.shields.io/badge/Redis_PubSub_%26_Caching-2b0a0a?style=for-the-badge&logo=redis&logoColor=D4AF37)
+![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-2b0a0a?style=for-the-badge&logo=diagramsdotnet&logoColor=D4AF37)
+![LeetCode](https://img.shields.io/badge/LeetCode_Java-2b0a0a?style=for-the-badge&logo=leetcode&logoColor=D4AF37)
 ![Docker](https://img.shields.io/badge/Docker-2b0a0a?style=for-the-badge&logo=docker&logoColor=D4AF37)
-![LangChain](https://img.shields.io/badge/LangChain-2b0a0a?style=for-the-badge&logo=langchain&logoColor=D4AF37)
-![Next.js](https://img.shields.io/badge/Next.js-2b0a0a?style=for-the-badge&logo=nextdotjs&logoColor=D4AF37)
-![AWS](https://img.shields.io/badge/AWS-2b0a0a?style=for-the-badge&logo=amazonaws&logoColor=D4AF37)
+![Flutter Architecture](https://img.shields.io/badge/Flutter_Bloc_%26_Riverpod-2b0a0a?style=for-the-badge&logo=flutter&logoColor=D4AF37)
 
 </div>
 
 <div align="center">
-<sub>Training arc status: grinding LeetCode like it owes me XP</sub>
+<sub>Training arc status: grinding LeetCode & distributed backend patterns like it owes me XP</sub>
 <br><br>
 <img src="https://media.giphy.com/media/SQEkg9lDRjifAo7jXh/giphy.gif" width="380">
-<br><sub>Thorfinn training arc, but it's me and LeetCode</sub>
+<br><sub>Thorfinn training arc, but it's me, Java threads, and LeetCode</sub>
 </div>
 
 ---
@@ -151,7 +151,7 @@ Proof I can survive without a database, if forced at gunpoint: **[omrajput.me](h
 
 ### Contact Me
 
-Reach out if you want to talk backend, debug a system together, argue about anime power scaling, or just game — no doubt too small, no hangout request refused.
+Reach out if you want to talk backend architecture, Redis caching, Flutter/Android development, argue about anime power scaling, or just game — no doubt too small, no hangout request refused.
 
 <div align="center">
 <img src="https://media.giphy.com/media/rsSqboqmIGkbQ0Ebaa/giphy.gif" width="380">

@@ -62,12 +62,12 @@
 
   <!-- stats -->
   <g font-family="Georgia, serif" font-size="16" fill="#2b0a0a">
-    <text x="90" y="615"><tspan font-weight="700">Class:</tspan> Backend Developer</text>
-    <text x="90" y="645"><tspan font-weight="700">Frontend Rank:</tspan> E- (tutorial island resident)</text>
-    <text x="90" y="675"><tspan font-weight="700">Power:</tspan> Half a Jira ticket in, an over-engineered API out</text>
-    <text x="90" y="705"><tspan font-weight="700">Weakness:</tspan> CSS, centering a div, color wheels</text>
+    <text x="90" y="615"><tspan font-weight="700">Class:</tspan> Java &amp; Spring Boot Engineer</text>
+    <text x="90" y="645"><tspan font-weight="700">Mobile Dev:</tspan> Android &amp; Flutter (Vetra Arc)</text>
+    <text x="90" y="675"><tspan font-weight="700">Power:</tspan> Sub-millisecond Redis cache &amp; robust APIs</text>
+    <text x="90" y="705"><tspan font-weight="700">Weakness:</tspan> Raw CSS, centering a div</text>
     <text x="90" y="735"><tspan font-weight="700">Crew:</tspan> Straw Hat Coder, Grand Line of SO</text>
-    <text x="90" y="765"><tspan font-weight="700">Current Arc:</tspan> Data Science Saga — Ep. 1</text>
+    <text x="90" y="765"><tspan font-weight="700">Current Arc:</tspan> Building Vetra App &amp; Scaling Backend</text>
   </g>
 
   <text x="320" y="800" text-anchor="middle" font-family="Georgia, serif" font-size="14"
