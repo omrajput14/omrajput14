@@ -93,7 +93,7 @@
   <text x="20" y="444" font-size="13" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="5.45s" dur="0.15s" fill="freeze"/><tspan fill="#9bc1bc">backend   </tspan><tspan fill="#edf1e8" opacity="0.85">Java · Spring Boot · FastAPI · REST APIs · JWT</tspan></text>
   <text x="20" y="462" font-size="13" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="5.62s" dur="0.15s" fill="freeze"/><tspan fill="#9bc1bc">data      </tspan><tspan fill="#edf1e8" opacity="0.85">PostgreSQL · PostGIS · Redis · MongoDB · SQLite</tspan></text>
   <text x="20" y="480" font-size="13" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="5.79s" dur="0.15s" fill="freeze"/><tspan fill="#9bc1bc">mobile    </tspan><tspan fill="#edf1e8" opacity="0.85">Flutter · Dart · Firebase Cloud Messaging</tspan></text>
-  <text x="20" y="498" font-size="13" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="5.96s" dur="0.15s" fill="freeze"/><tspan fill="#9bc1bc">frontend  </tspan><tspan fill="#edf1e8" opacity="0.85">React · TypeScript · Tailwind CSS · GSAP</tspan></text>
+  <text x="20" y="498" font-size="13" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="5.96s" dur="0.15s" fill="freeze"/><tspan fill="#9bc1bc">frontend  </tspan><tspan fill="#edf1e8" opacity="0.85">HTML · CSS · TypeScript (basics)</tspan></text>
   <text x="20" y="516" font-size="13" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="6.13s" dur="0.15s" fill="freeze"/><tspan fill="#9bc1bc">infra     </tspan><tspan fill="#edf1e8" opacity="0.85">Docker · Nginx · GitHub Actions · Azure</tspan></text>
 
   <!-- ─────────────────────────────────────────
