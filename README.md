@@ -10,7 +10,7 @@
 
 ---
 
-### KONICHIWA
+### HEY, I'M OM
 
 <table>
 <tr>
@@ -30,25 +30,20 @@ Proof I exist outside an IDE: **[omrajput.me](https://omrajput.me)**
 
 </td>
 <td width="40%" align="center">
-<img src="https://media.giphy.com/media/vCbhSnhug15F3Vs1K1/200w.gif" width="250" alt="walking to standup"/>
-<br><sub>me walking into standup after an all-nighter tuning PostGIS queries</sub>
+<img src="https://github-readme-stats.vercel.app/api?username=omrajput14&show_icons=true&hide_border=true&bg_color=edf1e8&title_color=141414&icon_color=ed6a5a&text_color=141414" width="100%"/>
+<br><br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=omrajput14&hide_border=true&background=edf1e8&stroke=d7dbd2&ring=ed6a5a&fire=ed6a5a&currStreakLabel=141414&sideLabels=141414&dates=141414&currStreakNum=141414&sideNums=141414" width="100%"/>
 </td>
 </tr>
 </table>
 
 ---
 
-### HOBBIES _(what happens when the build finally passes)_
+### HOBBIES
 
 - Gaming addict — competitive in everything except my sleep schedule
-- Watching anime — One Piece, Vinland Saga, Chainsaw Man, Berserk on loop
-- Reading manga faster than I read documentation
 - Badminton — neighbourhood champion, undefeated, no witnesses
-
-<div align="center">
-<img src="https://media.giphy.com/media/hqwEfwktDpy5GpwrkK/giphy.gif" width="360">
-<br><sub>my aura when someone says "it works on my machine"</sub>
-</div>
+- Reading — everything from manga to system design docs at 2am
 
 ---
 
@@ -110,13 +105,6 @@ Proof I exist outside an IDE: **[omrajput.me](https://omrajput.me)**
 
 </div>
 
-> *"NullPointerExceptions are my Kaido — but with Optional and defensive coding, I conquer them every time."*
-
-<div align="center">
-<img src="https://media.giphy.com/media/WlNLukEnQOYEA9ZwdS/giphy.gif" width="400">
-<br><sub>the exact moment a PostGIS spatial index drops query time from 4s to 12ms</sub>
-</div>
-
 ---
 
 ### CURRENTLY GRINDING
@@ -128,24 +116,6 @@ Proof I exist outside an IDE: **[omrajput.me](https://omrajput.me)**
 ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-141414?style=for-the-badge&logo=apachekafka&logoColor=ed6a5a)
 ![ML](https://img.shields.io/badge/ML_scikit--learn-141414?style=for-the-badge&logo=scikitlearn&logoColor=ed6a5a)
 ![LeetCode](https://img.shields.io/badge/LeetCode_Java-141414?style=for-the-badge&logo=leetcode&logoColor=ed6a5a)
-
-</div>
-
-<div align="center">
-<sub>Training arc status: grinding distributed backend patterns like it owes me XP</sub>
-<br><br>
-<img src="https://media.giphy.com/media/SQEkg9lDRjifAo7jXh/giphy.gif" width="360">
-<br><sub>Thorfinn training arc, but it's me, Java threads, and LeetCode</sub>
-</div>
-
----
-
-### STATS FROM THE BATTLEFIELD
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=omrajput14&show_icons=true&hide_border=true&bg_color=edf1e8&title_color=141414&icon_color=ed6a5a&text_color=141414" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=omrajput14&hide_border=true&background=edf1e8&stroke=d7dbd2&ring=ed6a5a&fire=ed6a5a&currStreakLabel=141414&sideLabels=141414&dates=141414&currStreakNum=141414&sideNums=141414" height="165"/>
 
 </div>
 
@@ -167,12 +137,7 @@ Proof I exist outside an IDE: **[omrajput.me](https://omrajput.me)**
 
 ### CONTACT
 
-Reach out if you want to talk backend architecture, spatial databases, Flutter/Android, argue about anime power scaling, or just game — no request too small, no hangout refused.
-
-<div align="center">
-<img src="https://media.giphy.com/media/rsSqboqmIGkbQ0Ebaa/giphy.gif" width="360">
-<br><sub>"I have no enemies" — me, opening your pull request</sub>
-</div>
+Reach out if you want to talk backend architecture, spatial databases, Flutter/Android development, or just game — no request too small.
 
 <div align="center">
 
@@ -185,9 +150,7 @@ Reach out if you want to talk backend architecture, spatial databases, Flutter/A
 </div>
 
 <div align="center">
-<img src="https://media.giphy.com/media/ppsHFdRAAlG8UapZXc/giphy.gif" width="280">
-<br><sub>thanks for scrolling this far, here's Denji as a reward</sub>
-<br><br>
+<br>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ed6a5a,50:d7dbd2,100:edf1e8&height=120&section=footer" width="100%"/>
 <sub>● Systems mode: on</sub>
 </div>
