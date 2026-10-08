@@ -1,12 +1,4 @@
-<div align="center">
 
-<img src="assets/terminal.svg" alt="Om Rajput — terminal whoami" width="720"/>
-
-</div>
-
-<br>
-
-<div align="center">
 
 **Backend · Spatial · Mobile · Cloud**
 
