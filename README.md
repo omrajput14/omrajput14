@@ -1,4 +1,4 @@
 
 
-**Backend · Spatial · Mobile · Cloud**
+**Backend · Mobile · Cloud**
 
