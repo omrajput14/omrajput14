@@ -4,10 +4,6 @@
 
 <br><br>
 
-<img src="assets/arcade.svg" alt="Om Rajput Arcade Activity" width="85%" />
-
-<br><br>
-
 <img src="koi/koi.gif" alt="My Git Koi" width="240" />
 
 </div>
