@@ -244,3 +244,4 @@
   <text x="500" y="582" text-anchor="middle" class="insert-coin" filter="url(#crtGlow)">INSERT COIN</text>
   <rect x="475" y="596" width="50" height="4" rx="2" fill="#334155" stroke="#475569" stroke-width="1" />
 </svg>
+
