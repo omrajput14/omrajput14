@@ -10,8 +10,4 @@
 
 <img src="koi/koi.gif" alt="My Git Koi" width="240" />
 
-<br><br>
-
-<img src="assets/tech-stack.svg" alt="Technology Spectrum" width="95%" />
-
 </div>
