@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Om Rajput" width="100%" />
+<img src="https://www.gitskins.com/api/readme-reference/hero?username=omrajput14&theme=neon&role=Frontend%20or%20full-stack%20engineer&location=Building%20from%20the%20open%20web&v=readme-reference-2" width="100%" alt="Om Rajput profile banner" />
 
 <br><br>
 
