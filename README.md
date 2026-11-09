@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="assets/banner.jpg" alt="Om Rajput" width="100%" />
+<img src="assets/banner.svg" alt="Om Rajput" width="100%" />
 
 <br><br>
 
-<img src="assets/arcade-3d.jpg" alt="Om Rajput Arcade Activity" width="85%" />
+<img src="assets/arcade.svg" alt="Om Rajput Arcade Activity" width="85%" />
 
 <br><br>
 
@@ -12,6 +12,6 @@
 
 <br><br>
 
-<img src="assets/tech-stack.jpg" alt="Tech Stack" width="85%" />
+<img src="assets/tech-stack.svg" alt="Technology Spectrum" width="95%" />
 
 </div>
