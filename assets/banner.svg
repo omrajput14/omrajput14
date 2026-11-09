@@ -97,7 +97,7 @@
     <line x1="-160" y1="168" x2="160" y2="168" stroke="#38bdf8" stroke-width="1.5" stroke-dasharray="6,5" opacity="0.6" />
 
     <!-- Subtitle -->
-    <text y="196" class="subtitle mono">Frontend or full-stack engineer</text>
+    <text y="196" class="subtitle mono">Systems &amp; AI Engineer</text>
   </g>
 
   <!-- Bottom Accent Text -->
